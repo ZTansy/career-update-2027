@@ -1,0 +1,41 @@
+{
+  "description": "公开 Greenhouse/Lever 招聘板接口；站点若拒绝访问会记录到 feed.errors。可逐步扩展，勿把未确认来源当作官方。",
+  "sources": [
+    {
+      "company": "Figma",
+      "provider": "greenhouse",
+      "board": "figma",
+      "region": "全球"
+    },
+    {
+      "company": "Notion",
+      "provider": "greenhouse",
+      "board": "notion",
+      "region": "全球"
+    },
+    {
+      "company": "Datadog",
+      "provider": "greenhouse",
+      "board": "datadog",
+      "region": "全球"
+    },
+    {
+      "company": "Cloudflare",
+      "provider": "greenhouse",
+      "board": "cloudflare",
+      "region": "全球"
+    },
+    {
+      "company": "Stripe",
+      "provider": "greenhouse",
+      "board": "stripe",
+      "region": "全球"
+    },
+    {
+      "company": "GitLab",
+      "provider": "greenhouse",
+      "board": "gitlab",
+      "region": "全球"
+    }
+  ]
+}
